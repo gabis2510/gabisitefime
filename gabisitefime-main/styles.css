@@ -2,7 +2,7 @@
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --cor-de-fundo: #b30101;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #3c92fa;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("fundooutro.avif");
+    background-image: url("img/fundooutro.jpeg");
     background-size: 98%;
     background-repeat: no-repeat;
     background-size: contain;
